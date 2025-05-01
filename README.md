@@ -20,8 +20,10 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 ## Background
 
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
-  - Part 1 (Foundations) up until Chapter 6 (the VC-Dimension)
-  - Part 3 (Additional Learning Models) especially Chapter 21 (Online Learning)
+  - Part 1 (Foundations)
+    - Basics of statistical learning theory up until Chapter 6 (the VC-Dimension)
+  - Part 3 (Additional Learning Models)
+    - Chapter 21 (Online Learning)
   - Part 4 (Advanced Theory)
     - Chapter 29 (Multiclass Learnability)
     - Chapter 30 (Compression Bounds)
