@@ -8,14 +8,14 @@ This half semester course will cover some "recent hits" in learning theory. Aft
 - learning from quantum examples
 - generation
 
-No prior background in learning theory is required. But a high level of mathematical maturity will be needed to fully benefit from this course. A more detailed syllabus will be eventually posted at this webpage.
+No prior background in learning theory is required. But a high level of mathematical maturity will be needed to fully benefit from this course. The topics list below is tentative and subject to change.
 
 # Logistics
 Time & Days: TuTh 2:30PM - 4:00PM  
 Location: TBD  
 Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
-# Papers
+# Topics
 
 ## Background
 
