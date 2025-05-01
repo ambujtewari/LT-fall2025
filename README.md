@@ -41,7 +41,7 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 ## Operator learning
 
 - [A Mathematical Guide to Operator Learning](https://arxiv.org/pdf/2312.14688)
-- [Operator learning: Algorithms and analysis](https://arxiv.org/pdf/2402.15715)
+- [Operator Learning: Algorithms and Analysis](https://arxiv.org/pdf/2402.15715)
 - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)
    
 ## Learning with quantum examples
@@ -52,3 +52,4 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 ## Generation
 
 - [Language Generation in the Limit](https://openreview.net/forum?id=FGTDe6EA0B) NeurIPS 2024
+- [Generation through the Lens of Learning Theory](https://arxiv.org/pdf/2410.13714)
