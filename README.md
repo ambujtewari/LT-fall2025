@@ -29,7 +29,7 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 ## Private learning
 
-- [What Can We Learn Privately?](https://epubs.siam.org/doi/abs/10.1137/090756090) SIAM J on Computing 2021
+- [What Can We Learn Privately?](https://epubs.siam.org/doi/abs/10.1137/090756090) SIAM J on Computing 2011
 - [Private and Online Learnability Are Equivalent](https://dl.acm.org/doi/10.1145/3526074) JACM 2022
 
 ## Operator learning
