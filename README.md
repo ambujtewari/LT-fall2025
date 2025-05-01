@@ -17,6 +17,12 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 # Papers
 
+## Background
+
+- [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+  - Part 1 (Foundation) up until Chapter 6 (the VC-Dimension)
+  - Part 3 (Additional Learning Models) especially Chapter 21 (Online Learning)
+
 ## Sample Compression Schemes
 
 - [Sample Compression Schemes for VC Classes](https://dl.acm.org/doi/abs/10.1145/2890490) JACM 2016
