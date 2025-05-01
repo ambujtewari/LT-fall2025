@@ -34,7 +34,7 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 ## Operator learning
 
-- [A mathematical guide to operator learning](https://arxiv.org/pdf/2312.14688)
+- [A Mathematical Guide to Operator Learning](https://arxiv.org/pdf/2312.14688)
 - [Operator learning: Algorithms and analysis](https://arxiv.org/pdf/2402.15715)
 - [Operator Learning: A Statistical Perspective](https://arxiv.org/pdf/2504.03503)
    
