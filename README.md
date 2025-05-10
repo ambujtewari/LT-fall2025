@@ -57,4 +57,4 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 ## Generation
 
 - [Language Generation in the Limit](https://openreview.net/forum?id=FGTDe6EA0B) NeurIPS 2024
-- [Generation through the Lens of Learning Theory](https://arxiv.org/pdf/2410.13714)
+- [Generation through the Lens of Learning Theory](https://arxiv.org/pdf/2410.13714) COLT 2025
