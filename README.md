@@ -13,6 +13,14 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 ## Background (~ 3 weeks)
 
+J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin
+
+### LLMs
+- Transformers, J&M Chapter 9
+- Large Language Models, J&M Chapter 10
+- Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+
+### Reasoning LLMs
 - [DeepSeek R1 Technical Report](https://arxiv.org/abs/2501.12948)
 - [Sebastien Raschka's blog post](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
 - [Reasoning Language Models: A Blueprint](https://ar5iv.labs.arxiv.org/html/2501.11223)
