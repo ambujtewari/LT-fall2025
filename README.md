@@ -6,7 +6,7 @@ Prior exposure to LLMs and learning theory will help but is not required. But a 
 
 # Logistics
 Time & Days: TuTh 2:30PM - 4:00PM  
-Location: TBD  
+Location: 2060 [SKB](https://maps.studentlife.umich.edu/building/school-of-kinesiology-building)  
 Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 # Topics
