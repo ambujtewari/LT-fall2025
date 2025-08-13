@@ -1,6 +1,6 @@
 # STATS 700, Fall 2025
 
-Since the release of OpenAI's o1 and DeepSeek's R1 models, interest in the reasoning capabilities of LLMs has increased. This half-semester (7-week) course will cover some of the main ingredients that go into enhancing an LLM's reasoning capability. We will also focus on some recent theory papers that try to understand this fascinating emerging area from a mathematical perspective.
+Since the release of OpenAI's o1 and DeepSeek's R1 models, interest in the reasoning capabilities of LLMs has increased. This half-semester (7-week) course will cover some of the main ingredients that go into enhancing an LLM's reasoning capability. We will also discuss some recent theory papers that try to understand this fascinating emerging area from a mathematical perspective.
 
 Prior exposure to LLMs and learning theory will help but is not required. But a high level of mathematical maturity will be needed to fully benefit from this course. The topics list below is tentative and subject to change.
 
