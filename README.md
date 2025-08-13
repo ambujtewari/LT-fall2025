@@ -23,6 +23,7 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 ### Reasoning LLMs
 - [DeepSeek R1 Technical Report](https://arxiv.org/abs/2501.12948)
 - [Sebastien Raschka's blog post](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+- [(How) Do reasoning models reason?](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.15339)
 - [Reasoning Language Models: A Blueprint](https://ar5iv.labs.arxiv.org/html/2501.11223)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://ar5iv.labs.arxiv.org/html/2502.17419)
 
@@ -32,9 +33,9 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Optimizing Test-Time Compute via Meta Reinforcement Finetuning](https://openreview.net/pdf?id=TqODUDsU4u), ICML 2025
 - [On the Power of Context-Enhanced Learning in LLMs](https://openreview.net/pdf?id=Gn6L4QRKf7), ICML 2025
 - [A Theory of Learning with Autoregressive Chain of Thought](https://proceedings.mlr.press/v291/joshi25a.html), COLT 2025
-- [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
 - [Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning](https://ar5iv.labs.arxiv.org/html/2502.07154)
+- [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!](https://arxiv.org/pdf/2504.09762)
 - [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/pdf/2504.20571)
+- [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
 - [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/pdf/2506.10947)
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
-
