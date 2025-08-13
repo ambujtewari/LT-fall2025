@@ -34,4 +34,7 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [A Theory of Learning with Autoregressive Chain of Thought](https://proceedings.mlr.press/v291/joshi25a.html), COLT 2025
 - [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
 - [Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning](https://ar5iv.labs.arxiv.org/html/2502.07154)
+- [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/pdf/2504.20571)
+- [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/pdf/2506.10947)
+- [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
 
