@@ -33,9 +33,20 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Optimizing Test-Time Compute via Meta Reinforcement Finetuning](https://openreview.net/pdf?id=TqODUDsU4u), ICML 2025
 - [On the Power of Context-Enhanced Learning in LLMs](https://openreview.net/pdf?id=Gn6L4QRKf7), ICML 2025
 - [A Theory of Learning with Autoregressive Chain of Thought](https://proceedings.mlr.press/v291/joshi25a.html), COLT 2025
+- [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/pdf/2502.07266)
 - [Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning](https://ar5iv.labs.arxiv.org/html/2502.07154)
-- [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!](https://arxiv.org/pdf/2504.09762)
-- [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/pdf/2504.20571)
 - [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
-- [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/pdf/2506.10947)
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
+
+## Interesting Observations Waiting for Theoretical Analysis
+- [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!](https://arxiv.org/pdf/2504.09762)
+  - Warns against interpreting CoT tokens in human terms. One corollary to draw from this position paper is that more work in needed in understanding how and when CoT traces help. E.g.,
+    - They might provide an extra "scratchpad" for the LLM to compute the final answer
+    - They might enable exploration of reasoning paths of more depth and breadth
+    - Training using CoT traces might help LLMs learn reusable skills and benefit from process supervision
+    - Training using CoT traces might help LLM's training objective with test time metrics
+    - How can we tell is CoT traces are helping? Or not helping?
+    - If CoT traces could be trusted, they might provide ways to audit/critique/check/verify LLM solutions to reasoning problems
+- [Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://arxiv.org/pdf/2504.20571)
+- [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/pdf/2506.10947)
+
