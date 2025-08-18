@@ -16,9 +16,9 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft), Jurafsky and Martin
 
 ### LLMs
-- Transformers, J&M Chapter 9
-- Large Language Models, J&M Chapter 10
-- Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12
+- Transformers, J&M Chapter 9 [annotated chapter](https://www.dropbox.com/scl/fi/n3b9qk371jxdiafmlgzey/9.pdf?rlkey=wmo5j2z20adsjg6cqm6r3ymok&st=s9d9pyov&dl=0)
+- Large Language Models, J&M Chapter 10 [annotated chapter](https://www.dropbox.com/scl/fi/i2y21c1ihrdjqsh8s9t0e/10.pdf?rlkey=w21kuuhg5j1om4s7j0uvk3k6q&st=hl9zr433&dl=0)
+- Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12 [annotated chapter](https://www.dropbox.com/scl/fi/v2jtyiczxs0vt5mleu6vs/12.pdf?rlkey=p10o9jpvq6sws5j7fmuubm0ey&st=mexbje0m&dl=0)
 
 ### Reasoning LLMs
 - [DeepSeek R1 Technical Report](https://arxiv.org/abs/2501.12948)
