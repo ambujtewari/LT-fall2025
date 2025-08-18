@@ -30,6 +30,8 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 ## Theory Papers (~ 5 weeks)
 
 - [A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://arxiv.org/pdf/2303.07971)
+  - Two main results: First, ICL abilities can arise if next-toen prediction pretraining is done on a distribution with compositional structure. Second, why prompting an LLMs to produce intermediate tokens can boost performance.
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://openreview.net/pdf?id=3EWTEy9MTM), ICLR 2024
 - [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://openreview.net/pdf?id=beeNgQEfe2), ICML 2025
 - [Optimizing Test-Time Compute via Meta Reinforcement Finetuning](https://openreview.net/pdf?id=TqODUDsU4u), ICML 2025
 - [On the Power of Context-Enhanced Learning in LLMs](https://openreview.net/pdf?id=Gn6L4QRKf7), ICML 2025
