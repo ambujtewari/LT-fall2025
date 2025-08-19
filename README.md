@@ -13,8 +13,7 @@ Half semester course dates: Aug 25, 2025-Oct 10, 2025
 
 ## Background (~ 2 weeks)
 
-J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft)
-by [Dan Jurafsky](http://web.stanford.edu/people/jurafsky/) and [James H. Martin](https://home.cs.colorado.edu/~martin/)
+J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed. draft) by [Dan Jurafsky](http://web.stanford.edu/people/jurafsky/) and [James H. Martin](https://home.cs.colorado.edu/~martin/)
 
 ### LLMs
 - Transformers, J&M Chapter 9 [annotated chapter](https://www.dropbox.com/scl/fi/n3b9qk371jxdiafmlgzey/9.pdf?rlkey=wmo5j2z20adsjg6cqm6r3ymok&st=s9d9pyov&dl=0)
