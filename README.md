@@ -19,7 +19,7 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - Transformers, J&M Chapter 9 [annotated chapter](https://www.dropbox.com/scl/fi/n3b9qk371jxdiafmlgzey/9.pdf?rlkey=wmo5j2z20adsjg6cqm6r3ymok&st=s9d9pyov&dl=0)
 - Large Language Models, J&M Chapter 10 [annotated chapter](https://www.dropbox.com/scl/fi/i2y21c1ihrdjqsh8s9t0e/10.pdf?rlkey=w21kuuhg5j1om4s7j0uvk3k6q&st=hl9zr433&dl=0)
 - Model Alignment, Prompting, and In-Context Learning, J&M Chapter 12 [annotated chapter](https://www.dropbox.com/scl/fi/v2jtyiczxs0vt5mleu6vs/12.pdf?rlkey=p10o9jpvq6sws5j7fmuubm0ey&st=mexbje0m&dl=0)
-- Since Section 12.7 (Model Alignment with Human Preferences) is missing in Chapter 12 above, we will refer to parts of the [RLHF book](https://rlhfbook.com/) being written by [Nathan Lambert](https://natolambert.com/), currently a post-training lead at the Allen Institute for AI.
+- Since Section 12.7 (Model Alignment with Human Preferences) is missing in Chapter 12 above, we will refer to [these notes](https://www.dropbox.com/scl/fi/z0zkds1vg2uizhd0vjuil/RLHF-notes.pdf?rlkey=m1p9s3ep0xf345xzqxn8vai4n&st=gufbbz3r&dl=0). You can also refer to the [RLHF book](https://rlhfbook.com/) being written by [Nathan Lambert](https://natolambert.com/), currently a post-training lead at the Allen Institute for AI.
 
 ### Reasoning LLMs
 - [DeepSeek R1 Technical Report](https://arxiv.org/abs/2501.12948)
