@@ -25,6 +25,7 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 ### Reasoning LLMs
 - [DeepSeek R1 Technical Report](https://arxiv.org/abs/2501.12948)
 - [Sebastien Raschka's blog post](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms)
+  - [annotated pdf](https://www.dropbox.com/scl/fi/bdk0kvwoaarxtyuwcmads/Understanding-Reasoning-LLMs-by-Sebastian-Raschka.pdf?rlkey=62mukrn1d5odw4hh8a1bpqufi&st=a4p93rek&dl=0)
 - [(How) Do reasoning models reason?](https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/nyas.15339)
 - [Reasoning Language Models: A Blueprint](https://ar5iv.labs.arxiv.org/html/2501.11223)
 - [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://ar5iv.labs.arxiv.org/html/2502.17419)
@@ -57,6 +58,7 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 ## Interesting Observations Waiting for Theoretical Analysis
 
 - [Chain-of-Thought Reasoning Without Prompting](https://proceedings.neurips.cc/paper_files/paper/2024/file/7a8e7fd295aa04eac4b470ae27f8785c-Paper-Conference.pdf), NeurIPS 2024
+- [Scaling LLM Test-Time Compute Optimally Can be More Effective than Scaling Parameters for Reasoning](https://openreview.net/pdf?id=4FWAwZtd2n), ICLR 2025
 - [Stop Anthropomorphizing Intermediate Tokens as Reasoning/Thinking Traces!](https://arxiv.org/pdf/2504.09762)
   - Poaition paper warning researchers against interpreting CoT tokens in human terms. One conclusion to draw from this position paper is that more work in needed in understanding how and when CoT traces help LLMs reason and plan. E.g.,
     - They might provide an extra "scratchpad" for the LLM to compute the final answer
