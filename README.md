@@ -33,27 +33,27 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Theory Papers (~ 5 weeks)
 
-1. [A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://arxiv.org/pdf/2303.07971)
+- [A Theory of Emergent In-Context Learning as Implicit Structure Induction](https://arxiv.org/pdf/2303.07971)
   - Two main results: (1) ICL abilities can arise if next-token pretraining is done on distributions with compositional structure. (2) Prompting an LLM to produce intermediate tokens can improve performance.
-2. [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://openreview.net/pdf?id=3EWTEy9MTM), ICLR 2024
+- [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://openreview.net/pdf?id=3EWTEy9MTM), ICLR 2024
   - With T steps of CoT, constant-depth transformers with constant-bit precision and logarithmic embedding size can solve any problem solvable by Boolean circuits of size T.
-3. [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://openreview.net/pdf?id=beeNgQEfe2), ICML 2025
+- [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://openreview.net/pdf?id=beeNgQEfe2), ICML 2025
   - Proves that verifier-based methods using RL/search dominate verifier-free methods based on distillation or cloning search traces, given fixed compute/data budgets.
-4. [Optimizing Test-Time Compute via Meta Reinforcement Finetuning](https://openreview.net/pdf?id=TqODUDsU4u), ICML 2025
+- [Optimizing Test-Time Compute via Meta Reinforcement Finetuning](https://openreview.net/pdf?id=TqODUDsU4u), ICML 2025
   - Formalizes optimizing test-time compute as a meta-RL problem, offering guidance on how to optimally allocate inference-time computation.
-5. [On the Power of Context-Enhanced Learning in LLMs](https://openreview.net/pdf?id=Gn6L4QRKf7), ICML 2025
+- [On the Power of Context-Enhanced Learning in LLMs](https://openreview.net/pdf?id=Gn6L4QRKf7), ICML 2025
   - Proposes CEL, a variant of supervised fine-tuning where extra context is provided but gradients are not taken through it. In a simplified setting, shows CEL can be exponentially more sample-efficient than vanilla SFT for multi-step reasoning tasks.
-6. [Understanding Chain-of-Thought in LLMs through Information Theory](https://openreview.net/pdf?id=IjOWms0hrf), ICML 2025
+- [Understanding Chain-of-Thought in LLMs through Information Theory](https://openreview.net/pdf?id=IjOWms0hrf), ICML 2025
   - Provides an information-theoretic framework that quantifies the “information gain” at each reasoning step.
-7. [A Theory of Learning with Autoregressive Chain of Thought](https://proceedings.mlr.press/v291/joshi25a.html), COLT 2025
+- [A Theory of Learning with Autoregressive Chain of Thought](https://proceedings.mlr.press/v291/joshi25a.html), COLT 2025
   - Proposes a learning-theoretic framework where prompt-to-answer mapping is modeled as repeated application of a time-invariant “single-step” function. Considers both observed and latent CoT settings, showing sample complexity can be independent of CoT length, with attention arising naturally in the framework.
-8. [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/pdf/2502.07266)
+- [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://arxiv.org/pdf/2502.07266)
   - Studies optimal CoT lengths, showing that longer is not always better: performance peaks at a sweet spot, then declines due to error accumulation.
-9. [Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning](https://ar5iv.labs.arxiv.org/html/2502.07154)
+- [Rethinking Fine-Tuning when Scaling Test-Time Compute: Limiting Confidence Improves Mathematical Reasoning](https://ar5iv.labs.arxiv.org/html/2502.07154)
   - Shows that Pass@N is misaligned with cross-entropy training. Proposes confidence-limiting objectives that improve performance on math and reasoning tasks.
-10. [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
+- [On Learning Verifiers for Chain-of-Thought Reasoning](https://ar5iv.labs.arxiv.org/html/2505.22650)
   - Analyzes the PAC-learnability of verifiers for CoT reasoning. Derives sample-complexity upper bounds and impossibility results.
-11. [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
+- [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
   - Argues that CoT gains are distribution-dependent and may vanish out-of-distribution, suggesting that CoT reasoning is brittle and not robustly general.
 
 ## Interesting Observations Waiting for Theoretical Analysis
