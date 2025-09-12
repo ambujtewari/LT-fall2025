@@ -55,6 +55,8 @@ J&M = [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
   - Analyzes the PAC-learnability of verifiers for CoT reasoning. Derives sample-complexity upper bounds and impossibility results.
 - [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/pdf/2508.01191)
   - Argues that CoT gains are distribution-dependent and may vanish out-of-distribution, suggesting that CoT reasoning is brittle and not robustly general.
+- [CoT Information: Improved Sample Complexity under Chain-of-Thought Supervision](https://arxiv.org/pdf/2505.15927)
+  - A statistical learning and information theory perspective on how CoT supervision can reduce sample complexity.
 
 ## Interesting Observations Waiting for Theoretical Analysis
 
